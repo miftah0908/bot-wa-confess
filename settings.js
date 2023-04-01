@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.fotomenfess = fs.readFileSync("./menfess.jpg")
+global.fotomenfess = fs.readFileSync("./confess-gospel-pic_orig.jpg")
 global.owner = ["6285171226069"]
 
 global.help = {
